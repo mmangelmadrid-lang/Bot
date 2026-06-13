@@ -1,0 +1,5 @@
+grop
+python-telegram-bot>=20.0
+pandas
+openpyxl
+pythopn-dotenv
